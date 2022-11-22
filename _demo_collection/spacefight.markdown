@@ -8,7 +8,7 @@ intro: 具有武器系统和技能系统的小游戏
 
 <div class="top">
       <div class="gameBox">
-          <iframe id="game" width="1080" height="1920" src="https://suo.nz/2lhK9H"></iframe>
+          <iframe id="game" width="1080" height="1920" src="https://donald-trump.cyou/games/SpaceFightDemo/"></iframe>
       </div>
 </div>
 # 简介

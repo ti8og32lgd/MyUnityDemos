@@ -30,7 +30,7 @@ remote_theme: pages-themes/modernist@v0.2.0 #pages-themes/cayman@v0.2.0 #pages-t
 plugins:
 - jekyll-remote-theme
 repository: ti8og32lgd/MyUnityDemos
-
+google_analytics: true
 
 collections:
   demo_collection:
