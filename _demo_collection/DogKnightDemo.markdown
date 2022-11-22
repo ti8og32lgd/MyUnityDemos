@@ -7,11 +7,10 @@ intro: 3D战斗
 ### {{page.title}}
 > {{page.intro}}
 
-<video src="https://user-images.githubusercontent.com/17761040/203285961-a5de1ab6-942f-4240-b7b1-9620f4cd5951.mp4" data-canonical-src="https://user-images.githubusercontent.com/17761040/203285961-a5de1ab6-942f-4240-b7b1-9620f4cd5951.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">  </video>
-
+<video src="https://user-images.githubusercontent.com/17761040/203346006-89302235-6341-4f46-8533-618fe1075c04.webm" data-canonical-src="https://user-images.githubusercontent.com/17761040/203346006-89302235-6341-4f46-8533-618fe1075c04.webm" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
 
 # 简介
-通过该demo学习了unity基础
+该demos使用了unity基础技术：
 - 3D场景搭建
 - URP 场景设置
 - 基本人物控制
