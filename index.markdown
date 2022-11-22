@@ -4,4 +4,11 @@
 
 layout: default
 ---
-heelo
+<table>    <tr><th></th><th>简介</th> </tr>
+{% for demo in site.demo_collection %}
+<tr>
+<td><a href="{{demo.url}}">          {{ demo.title }}        </a></td>
+<td> {{demo.intro}} </td>
+</tr>
+{% endfor %}
+</table>
