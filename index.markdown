@@ -7,7 +7,9 @@ layout: default
 <table>    <tr><th></th><th>简介</th> </tr>
 {% for demo in site.demo_collection %}
 <tr>
-<td><a href="{% if jekyll.environment=='production' %}{{site.github.repository_name}}{% endif %}{{demo.url}}">          {{ demo.title }}        </a></td>
+<td><a href="/{% if jekyll.environment=='production' %}{{site.github.repository_name}}{% endif %}{{demo.url}}">          {{ demo.title }}        </a>
+<a href=".{{demo.url}}">          {{ demo.title }}        </a>
+</td>
 <td> {{demo.intro}} </td>
 </tr>
 {% endfor %}
